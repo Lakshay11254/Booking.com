@@ -88,5 +88,5 @@ async function SearchPage({ searchParams }: Props) {
     </section>
   );
 }
-
+//
 export default SearchPage;
